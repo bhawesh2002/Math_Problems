@@ -1,2 +1,2 @@
 # Math_Problems
- repo containing code solving different math problems like area,perimeter,LCM,HCF ,etc..
+ repo containing code solving different math problems like AREA , PERIMETER, VOLUME,etc..
